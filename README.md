@@ -1,9 +1,10 @@
-<h1><p align="center">Olá, eu sou o Vinícius Queiroz! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1 align="center"><p>Olá, eu sou o Vinícius Queiroz! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="35px"></h1></a></p>
 
-<br><p align="center"><img src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+<br>
+<p><img align="center" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="60%"/></p>
 
-
-<p align="center">Sou um desenvolvedor estudante.<br/>Aprendendo sobre Python, HTML, CSS e por ai vai :).<br> Ahhh ... Também sou um amante de música. <img align="center" src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="50px"><br></p><br/>
+<p align="center"><b>Sou um desenvolvedor estudante.<br/>Aprendendo sobre Python, HTML, CSS e por ai vai :)</b>.<br><br><br><br><br> Ahhh ... Também sou um amante de música. 
+<img align="center" src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="50px"><br></p><br/>
 
 <p align="center"><a href="#"> <img align="center" src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" height="300" width="300" alt="rahulmahesh62" /></a></p><br><br>
 
@@ -28,7 +29,7 @@
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
+                width="28" /> Minha atividade no GitHub</h2> </summary>
 
 <br>
 
